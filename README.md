@@ -1,2 +1,2 @@
-# maven-starter
-Maven Starter Project
+# stripe-integration
+Stripe Integration Project
